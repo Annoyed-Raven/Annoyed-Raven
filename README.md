@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Annoyed-Raven
-- 👀 I’m interested in ... game programming, software engineering, and reading. 
+- 👀 I’m interested in ... game programming, software engineering, and language processing.
 - 🌱 I’m currently studying a masters in software engineering
-- 💞️ I’m looking to collaborate on nothing currently
+- 💞️ I’m looking to collaborate on interesting subjects
 - 📫 How to reach me provokedraven@gmail.com
 
 <!---
