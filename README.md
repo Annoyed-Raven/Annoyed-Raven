@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Annoyed-Raven
+- 👋 Hi, I’m @Annoyed-Raven (Joseph Gutierrez)
 - 👀 I’m interested in ... game programming, software engineering, and language processing.
 - 🌱 I’m currently studying a masters in software engineering
-- 💞️ I’m looking to collaborate on interesting subjects
+
 - 📫 How to reach me Joseph.Gutierrez@slu.edu
 
 <!---
