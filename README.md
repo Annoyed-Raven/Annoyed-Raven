@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Annoyed-Raven (Joseph Gutierrez)
-- 👀 I’m interested in ... game programming, software engineering.
+- 👀 I’m interested in ... game programming, automation, Testing infrastructure and pushing the boundaries of software engineering.
 - 🌱 masters in software engineering
 
 
